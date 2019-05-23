@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558580454 source:c:\users\altex\desktop\tema_poo_3\main.cpp
+	<iostream>
+	<algorithm>
+	<cstring>
+
